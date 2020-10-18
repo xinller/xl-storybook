@@ -1,5 +1,5 @@
 {
-  "name": "lg-steps",
+  "name": "lg-steps-xl",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "dda1d72b246a2a113e34b37c389501f55cbeed6a"
 }

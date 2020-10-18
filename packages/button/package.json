@@ -1,5 +1,5 @@
 {
-  "name": "lg-button",
+  "name": "lg-button-xl",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "dda1d72b246a2a113e34b37c389501f55cbeed6a"
 }
